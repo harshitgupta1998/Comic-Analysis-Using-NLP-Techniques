@@ -1,1 +1,1 @@
-# comic-anlaysis
+# comic-analysis
