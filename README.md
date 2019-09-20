@@ -1,1 +1,2 @@
-# comic-analysis
+# comic-analysis and generation.
+
